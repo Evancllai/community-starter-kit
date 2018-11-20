@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Well I got this in my Github tutorial and I have no idea what it is.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Just like what I said, I have no idea.
 
 ## Getting started
 
